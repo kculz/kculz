@@ -1,4 +1,3 @@
-[![MasterHead](https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif)]
 <h1 align="center">Hi 👋, I'm Kudzai Munyama</h1>
 <h3 align="center">A passionate Software developer from Mutare, Zimbabwe</h3>
 <img src="https://i.pinimg.com/originals/ab/68/e6/ab68e6d38452d78ac98687865281c5c8.gif" alt="Image" srcset="" align="right" width="400">
@@ -38,4 +37,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kculz&" alt="kculz" /></p>
 
-Support 🙏
+
