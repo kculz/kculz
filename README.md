@@ -20,10 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/kculz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kculz" height="30" width="40" /></a>
 <a href="https://twitter.com/greycode095" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="greycode095" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kudzai munyama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kudzai munyama" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/kculz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kculz" height="30" width="40" /></a>
 <a href="https://fb.com/kudzai munyama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kudzai munyama" height="30" width="40" /></a>
 <a href="https://instagram.com/kculz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kculz" height="30" width="40" /></a>
 </p>
