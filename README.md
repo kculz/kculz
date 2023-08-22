@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Software developer from Mutare, Zimbabwe</h3>
 <img src="https://i.pinimg.com/originals/ab/68/e6/ab68e6d38452d78ac98687865281c5c8.gif" alt="Image" srcset="" align="right" width="400">
 
-<p align="left"> <a href="https://twitter.com/greycode095" target="blank"><img src="https://img.shields.io/twitter/follow/greycode095?logo=twitter&style=for-the-badge" alt="greycode095" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kculz&label=Profile%20views&color=0e75b6&style=flat" alt="kculz" /> </p>
 
 - 🌱 I’m currently learning **React Native**
 
