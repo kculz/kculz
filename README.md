@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [github](github.com/kculz)
+- 👨‍💻 All of my projects are available on my [github](github.com/kculz)
 
 - 💬 Ask me about **Javascript, React.js, Express.js, Node.js, Mongodb, & MySql**
 
-- 📫 Reach me [mail](mailto:munyamakudzai095@gmail.com)
+- 📫 Reach me by [mail](mailto:munyamakudzai095@gmail.com)
 
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/kudzai-munyama-74240019b/)
+- 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/kudzai-munyama-74240019b/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
