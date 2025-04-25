@@ -54,8 +54,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kculz&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kculz&theme=github_dark&hide_border=false" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=kculz&theme=dark)](https://git.io/streak-stats)
 </div>
 
 <div align="center">
