@@ -54,11 +54,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=kculz&theme=dark)](https://git.io/streak-stats)
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kculz&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kculz&theme=github-dark&hide_border=false" alt="GitHub Streak" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kculz&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🚀 Featured Projects
