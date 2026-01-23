@@ -20,7 +20,7 @@
 const kudzai = {
     location: "Zimbabwe 🇿🇼",
     currentFocus: "Building a Logistics Platform",
-    learning: ["Django", "React Native"],
+    learning: ["Java", "Kotlin"],
     expertise: ["Node.js", "React.js", "Next.js", "Express.js"],
     funFact: "I contribute to open source in my free time",
     askMeAbout: ["Web Dev", "Backend Architecture", "API Design"],
