@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220" role="img" aria-label="Kudzai Munyama, Full-Stack Engineer and CS Educator">
+  <style>
+    .bg      { fill: #f8fafc; }
+    .border  { fill: none; stroke: #e2e8f0; stroke-width: 1.5; }
+    .accent  { fill: #2563eb; }
+    .name    { font: 700 44px 'Inter', 'Segoe UI', system-ui, sans-serif; fill: #0f172a; letter-spacing: -0.5px; }
+    .role    { font: 500 20px 'Inter', 'Segoe UI', system-ui, sans-serif; fill: #475569; }
+    .meta    { font: 500 14px 'Inter', 'Segoe UI', system-ui, sans-serif; fill: #64748b; letter-spacing: 1.5px; }
+    .dot     { fill: #cbd5e1; }
+    .fade    { animation: fade 1.2s ease-out both; }
+    .bar     { transform-origin: left center; animation: grow 1s ease-out both; }
+    @keyframes fade { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  </style>
+
+  <rect class="bg" x="1" y="1" width="898" height="218" rx="14"/>
+  <rect class="border" x="1" y="1" width="898" height="218" rx="14"/>
+
+  <rect class="accent bar" x="60" y="52" width="48" height="5" rx="2.5"/>
+
+  <text class="name fade" x="60" y="110">Kudzai Munyama</text>
+  <text class="role fade" x="60" y="146" style="animation-delay:.2s">Full-Stack Software Engineer &#183; Computer Science Educator</text>
+
+  <g class="fade" style="animation-delay:.4s">
+    <text class="meta" x="60" y="184">FINTECH</text>
+    <circle class="dot" cx="140" cy="179" r="3"/>
+    <text class="meta" x="154" y="184">EDTECH</text>
+    <circle class="dot" cx="226" cy="179" r="3"/>
+    <text class="meta" x="240" y="184">AI &amp; ROBOTICS</text>
+  </g>
+
+  <g class="fade" style="animation-delay:.6s" opacity="0.9">
+    <circle cx="790" cy="110" r="52" fill="none" stroke="#2563eb" stroke-width="2" opacity="0.25"/>
+    <circle cx="790" cy="110" r="34" fill="none" stroke="#2563eb" stroke-width="2" opacity="0.45"/>
+    <circle cx="790" cy="110" r="16" class="accent"/>
+  </g>
+</svg>
