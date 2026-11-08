@@ -49,9 +49,6 @@ I build **fintech, logistics and education software** for Zimbabwe and the wider
 | **[POSFAC](https://posfac.co.zw)** | Merchant point-of-sale infrastructure for Zimbabwe | React, Express, TypeScript |
 | **[PAYFAC](https://payfac.co.zw)** | Digital payment processing platform | Node.js, PostgreSQL, Prisma |
 | **Qonvey** | Digital logistics and business platform for SADC | React, Node.js, MongoDB |
-| **Mushikashika** | Ride-hailing app with mobile money payments and KYC | React Native, Node.js |
-| **MAKA** | Multi-tenant restaurant, recipe costing and inventory platform | TypeScript, PostgreSQL |
-
 ---
 
 ## Tech Stack
